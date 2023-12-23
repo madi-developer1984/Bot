@@ -52,5 +52,4 @@ const game = {
     }
 };
 
-// Запуск игры
 game.start();
